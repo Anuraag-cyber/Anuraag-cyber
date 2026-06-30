@@ -5,7 +5,7 @@ Cybersecurity Student | MERN Stack Intern | Flutter, Python & C++ Learner | DSA 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;MERN+Stack+Intern;Flutter+%7C+Python+%7C+C%2B%2B+Learner;DSA+Enthusiast;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;MERN+Stack+Intern;Flutter+%7C+Python+%7C+C%2B%2B+Learner;DSA+Enthusiast;Always+Learning+Always+Building"/>
 </p>
 
 ---
@@ -23,7 +23,7 @@ Cybersecurity Student | MERN Stack Intern | Flutter, Python & C++ Learner | DSA 
 # 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter,js,react,nodejs,mongodb,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Cybersecurity Student | MERN Stack Intern | Flutter, Python & C++ Learner | DSA 
 
 **SantoMeridia Research Labs Pvt. Ltd.**
 
-**Technologies**
+**Learning Technologies**
 
 - Flutter
 - MongoDB
@@ -102,7 +102,7 @@ Cybersecurity Student | MERN Stack Intern | Flutter, Python & C++ Learner | DSA 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anuraag-cyber&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anuraag-cyber&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
